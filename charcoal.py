@@ -151,8 +151,8 @@ def applySketchFilter(img_name):
 # ===============================
 def run():
     print('======================================')
-    print('| Python Sketch Filter               |')
-    print('| Programmer By Paul Scott           |')
+    print('| Charcoal [Image Sketchifier]       |')
+    print('| Programmed By Paul Scott           |')
     print('| Computer Science Major, Penn State |')
     print('| Version 2020.4.29                  |')
     print('======================================\n')
